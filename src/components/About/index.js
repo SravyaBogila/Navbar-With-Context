@@ -13,8 +13,8 @@ const About = () => (
       const aboutBgClassName = isDarkTheme ? 'about-bg-dark' : 'about-bg-light'
 
       const aboutImageURL = isDarkTheme
-        ? 'https://assets.ccbp.in/frontend/react-js/about-dark-img-png'
-        : 'https://assets.ccbp.in/frontend/react-js/about-light-img-png'
+        ? 'https://assets.ccbp.in/frontend/react-js/about-dark-img.png'
+        : 'https://assets.ccbp.in/frontend/react-js/about-light-img.png'
 
       const aboutTextClassName = isDarkTheme
         ? 'about-text-light'
